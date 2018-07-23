@@ -6,4 +6,4 @@ def crazy_strings(a,b)
   "#{a} #{b}"
 end
 
- puts 
+ puts https://kodewithklossycamps18.slack.com/messages/GBV273Y4V/convo/GBV273Y4V-1532358277.000481/
